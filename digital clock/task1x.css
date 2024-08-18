@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100vh;
+    color: white;
+    font-family: roboto;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+.heading {
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.para-1 {
+    font-size: 25px;
+}
+
+.para-2 {
+    font-size: 25px;
+}
+
+.button-1 {
+    margin: 20px;
+}
